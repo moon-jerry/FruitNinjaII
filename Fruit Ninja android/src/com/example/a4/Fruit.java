@@ -1,7 +1,5 @@
 /**
  * CS349 Winter 2014
- * Assignment 4 Demo Code
- * Jeff Avery
  */
 package com.example.a4;
 import android.graphics.*;

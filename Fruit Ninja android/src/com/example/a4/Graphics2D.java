@@ -1,6 +1,5 @@
 /**
  * Graphics2D for Android
- * Copyright (c) 2012 Jeff Avery
  */
 package com.example.a4;
 
